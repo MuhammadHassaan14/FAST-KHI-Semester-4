@@ -20,6 +20,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [Useful repositories you should know!](#-useful-repositories-you-should-know)
 
+- [Additional Resources](#-additional-resources)
+
 ### 🔗 How to crack your third semester at FAST NUCES!
 - [Time management](#-time-management)
 
@@ -154,3 +156,17 @@ pata chale toh mujhe bhi bata dena pls
 ### 📌 Elective:
 🔗 Resources:
 - []()
+
+
+## 🔗 Additional Resources
+Feeling this repository isn't enough? 😩 Here are all links to repositories and drives I found: ⬇️
+
+### 📌 Github Repositories:
+
+
+### 📌 Google Drives:
+
+- [](https://drive.google.com/drive/folders/1OclnnSo8e8zuL7F4lIyRpbUu-c3lbxGo)
+- [](https://drive.google.com/drive/folders/124u4xGcz5eGmdqIHvtAEVeOugyhuY4qF?usp=drive_link)
+
+
