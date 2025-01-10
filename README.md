@@ -22,7 +22,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [Additional Resources](#-additional-resources)
 
-### 🔗 How to crack your third semester at FAST NUCES!
+### 🔗 How to crack your fourth semester at FAST NUCES!
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
@@ -80,6 +80,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </a> - Chat with your PDF documents — Extract information or answer questions from large PDF files like manuals, essays, books.!
 
 ## 🔗 Useful repositories you should know!
+- [Computer Science Notes](https://github.com/ishmahafeez/Computer-Science-Notes) - Well-maintained PDF notes of all computing courses at FAST by [Ishma Hafeez](https://github.com/ishmahafeez)
+
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Teaches you to code hands-on for free!
 
 - [Build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Coding projects and tutorials that might get you hired!
@@ -98,75 +100,72 @@ pata chale toh mujhe bhi bata dena pls
 ## 🔗 Course wise guide
 ### 📌 Operating Systems:
 🔗 Useful Youtube Playlists:
-- []()
-- []()
-- []()
+- [Operating Systems by recluze](https://youtube.com/playlist?list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F&si=-l9-gc3SlHn4-Ina)
 
 🔗 Resources:
 - [Operating System Concepts 10th Ed.](https://www.os-book.com/OS10/) - Web-page supporting the respective book.
 
-- [Operating System Web Resources](https://codex.cs.yale.edu/avi/os-book/) - Web-page supporting the **Operating System Concepts**.
+- [Operating System Web Resources](https://codex.cs.yale.edu/avi/os-book/) - Web-page supporting the *Operating System Concepts*.
 
 - [OSDev Org](https://wiki.osdev.org/Expanded_Main_Page) - Companion website for all Operating Systems development & articles.
 
 🔗 Google Drives:
-- []() - 
+
 
 🔗 Full courses:
-- []() : 
+
 
 ---
 
 ### 📌 Theory of Automata:
 🔗 Useful Youtube Playlists:
 
-- []()
-- []()
 
 🔗 Google Drives:
-- []() - 
 
 ---
 
 ### 📌 Numerical Computing:
 🔗 Useful Youtube Playlists:
-- []() - 
+
 
 🔗 Resources:
-- []()
-- []() - 
+
 
 ---
 
 ### 📌 Probability and Statistics:
 🔗 Useful Youtube Playlists:
-- []() - 
+
 
 🔗 Resources:
-- []() 
-
-- []() 
 
 🔗 Google Drives:
-- []() - 
-- []() - 
 
 ---
 
 ### 📌 Elective:
 🔗 Resources:
-- []()
 
+---
+<h1 style="text-align: center;">Can't find a course?</h2>
+
+### Check out other semester's repositories [here](#-links-to-other-semester-repositories)!
+
+---
 
 ## 🔗 Additional Resources
 Feeling this repository isn't enough? 😩 Here are all links to repositories and drives I found: ⬇️
 
 ### 📌 Github Repositories:
-
+- [BS-CS-Semester-4](https://github.com/umarwaseeem/BS-CS-Semester-4) - by Umar Waseem
+- [FAST Semester 4](https://github.com/aliwajahat12/FastSemester4) - by Ali Wajahat
+- [Computer Science Notes](https://github.com/ishmahafeez/Computer-Science-Notes) - by Ishma Hafeez
 
 ### 📌 Google Drives:
 
-- [](https://drive.google.com/drive/folders/1OclnnSo8e8zuL7F4lIyRpbUu-c3lbxGo)
-- [](https://drive.google.com/drive/folders/124u4xGcz5eGmdqIHvtAEVeOugyhuY4qF?usp=drive_link)
+- [FAST-Student-Forum-Share (Semester#04)](https://drive.google.com/drive/u/1/folders/1SKQBNrSJj4BJWWGW2BY--sPO2CP4YM_f) - by Mr. Tanveer
+- [Semester 4 (CS)](https://drive.google.com/drive/folders/124u4xGcz5eGmdqIHvtAEVeOugyhuY4qF?usp=drive_link) - by Muhammad Tahir (access with NU id)
+
 
 
