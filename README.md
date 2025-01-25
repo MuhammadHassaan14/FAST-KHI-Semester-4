@@ -14,9 +14,9 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 - [3rd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-3)
 
 ### 🔗 Guide to get you started
-- [Useful tools you should know](#-useful-tools-you-should-know)
-
 - [Useful websites you should know!](#-useful-websites-you-should-know)
+
+- [Useful tools you should know](#-useful-tools-you-should-know)
 
 - [Useful repositories you should know!](#-useful-repositories-you-should-know)
 
@@ -31,7 +31,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   <li><a href="#-theory-of-automata">Theory of Automata</li>
   <li><a href="#-numerical-computing">Numerical Computing</li>
   <li><a href="#-probability-and-statistics">Probability and Statistics</li>
-  <li><a href="#-elective">(Elective)</li>
+  <li><a href="#-psychology">Psychology (Elective)</li>
+  <li><a href="#-sociology">Sociology (Elective)</li>
   </ul>
 
 ## 🔗 Useful Websites you should know!
@@ -106,8 +107,15 @@ pata chale toh mujhe bhi bata dena pls
 - [Operating System Concepts 10th Ed.](https://www.os-book.com/OS10/) - Web-page supporting the respective book.
 
 - [Operating System Web Resources](https://codex.cs.yale.edu/avi/os-book/) - Web-page supporting the *Operating System Concepts*.
+- [Operating Systems Slides (.pptx)](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html) - based on Operating System Concepts 10th Ed. 
 
 - [OSDev Org](https://wiki.osdev.org/Expanded_Main_Page) - Companion website for all Operating Systems development & articles.
+
+🔗 Lab:
+- [VirtualBox Download Link](https://www.virtualbox.org/wiki/Downloads)
+- [Ubuntu LTS Download Link](https://ubuntu.com/download/desktop)
+
+- [How to Install Ubuntu 24.04 LTS on VirtualBox in Windows 11](https://youtu.be/DhVjgI57Ino?si=8__97QLTj19qSqmU) - Installation guide.
 
 🔗 Google Drives:
 
@@ -144,10 +152,15 @@ pata chale toh mujhe bhi bata dena pls
 
 ---
 
-### 📌 Elective:
+### 📌 Psychology:
 🔗 Resources:
 
 ---
+### 📌 Sociology:
+🔗 Resources:
+
+---
+
 <h1 style="text-align: center;">Can't find a course?</h2>
 
 ### Check out other semester's repositories [here](#-links-to-other-semester-repositories)!
@@ -166,6 +179,7 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 
 - [FAST-Student-Forum-Share (Semester#04)](https://drive.google.com/drive/u/1/folders/1SKQBNrSJj4BJWWGW2BY--sPO2CP4YM_f) - by Mr. Tanveer
 - [Semester 4 (CS)](https://drive.google.com/drive/folders/124u4xGcz5eGmdqIHvtAEVeOugyhuY4qF?usp=drive_link) - by Muhammad Tahir (access with NU id)
+- [4th Semester](https://drive.google.com/drive/folders/1UoQ61blgyWfDFJ1oBu6XEepNSFQ0TqDi?usp=drive_link) - by Muhammad Rayyan Ali
 
 
 
