@@ -29,8 +29,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   <ul>
   <li><a href="#-operating-systems">Operating Systems (Theory+Lab)</li>
   <li><a href="#-theory-of-automata">Theory of Automata</li>
-  <li><a href="#-numerical-computing">Numerical Computing</li>
   <li><a href="#-probability-and-statistics">Probability and Statistics</li>
+  <li><a href="#-computer-architecture">Computer Architecture</li>
   <li><a href="#-psychology">Psychology (Elective)</li>
   <li><a href="#-sociology">Sociology (Elective)</li>
   </ul>
@@ -101,7 +101,9 @@ pata chale toh mujhe bhi bata dena pls
 ## 🔗 Course wise guide
 ### 📌 Operating Systems:
 🔗 Useful Youtube Playlists:
+- [Operating System by Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=o_2ADgMdY4RdKUkM)
 - [Operating Systems by recluze](https://youtube.com/playlist?list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F&si=-l9-gc3SlHn4-Ina)
+- [Operating System by Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=7fcB5FZxGs40j4nZ)
 
 🔗 Resources:
 - [Operating System Concepts 10th Ed.](https://www.os-book.com/OS10/) - Web-page supporting the respective book.
@@ -127,28 +129,34 @@ pata chale toh mujhe bhi bata dena pls
 
 ### 📌 Theory of Automata:
 🔗 Useful Youtube Playlists:
-
-
-🔗 Google Drives:
-
----
-
-### 📌 Numerical Computing:
-🔗 Useful Youtube Playlists:
-
+- [TOC | AUTOMATA THEORY by KnowledgeGATE](https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T&si=Qtwz8cK7nh-dsVgU)
+- [Theory of Computation by THE GATEHUB](https://youtube.com/playlist?list=PL1QH9gyQXfgsUBfYUR0WirJASgif4pHVX&si=k6KkCM4x6NDfcQvG) - post-mid02 topics.
+- [TOC(Theory of Computation) by Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i&si=4stpDiPvK9n9sROt)
+- [ Theory of Computation & Automata Theory by Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&si=1THjxtOY1_OmX_M3)
+- [Theory of Automata lectures in Urdu by Programology](https://youtube.com/playlist?list=PLR2FqYUVaFJo5_uHfe5gh9_Hxu55LOFI8&si=gokfXPdvwGpgmUcu)
 
 🔗 Resources:
+- [Complete TOC Theory of Computation in one shot](https://youtu.be/9kuynHcM3UA?si=4H7eSSWuFOzdnp78) - by KnowledgeGATE
 
+🔗 Google Drives:
 
 ---
 
 ### 📌 Probability and Statistics:
 🔗 Useful Youtube Playlists:
-
+- [Probability (Organic Chem Tutor)](https://youtube.com/playlist?list=PL9pHDbh6wKIVyvA0UqM8UuSkyZpfUPO2O&si=7hmCFCj4wEQkWM-W) - compiled by Isha Femur.
 
 🔗 Resources:
 
 🔗 Google Drives:
+
+---
+
+### 📌 Computer Architecture:
+🔗 Useful Youtube Playlists:
+
+
+🔗 Resources:
 
 ---
 
