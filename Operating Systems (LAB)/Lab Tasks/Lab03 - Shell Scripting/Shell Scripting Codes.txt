@@ -1,0 +1,229 @@
+#--Check if file Exist or not
+
+#!/bin/bash
+FILE="/path/to/your/file.txt"
+
+if [ -e "$FILE" ]; then
+  echo "File exists."
+else
+  echo "File does not exist."
+fi
+
+
+#for loop example
+
+#!/bin/bash
+for i in {1..3}
+do
+  echo "Number $i"
+done
+
+-----with break ----
+#!/bin/bash
+for i in {1..5}
+do
+  if [ $i -eq 3 ]; then
+    break
+  fi
+  echo "Number $i"
+done
+
+
+--- with continue----
+
+#!/bin/bash
+for i in {1..5}
+do
+  if [ $i -eq 3 ]; then
+    continue
+  fi
+  echo "Number $i"
+done
+
+
+----While Loop---
+#!/bin/bash
+i=1
+while [ $i -le 3 ]
+do
+  echo "Number $i"
+  ((i++))
+done
+
+
+--while loop with break--
+#!/bin/bash
+i=1
+while [ $i -le 5 ]
+do
+  if [ $i -eq 4 ]; then
+    break
+  fi
+  echo "Number $i"
+  ((i++))
+done
+
+
+---check if Directory exists or not---
+#!/bin/bash
+if [ -d "mydir" ]; then
+  echo "Directory exists."
+else
+  echo "Directory does not exist."
+fi
+
+
+--all files in directory using for loop---
+#!/bin/bash
+for file in /path/to/directory/*
+do
+  echo "Found file: $file"
+done
+
+
+
+--Numerical comparisons using -eq, -ne, -lt, -le, -gt, and -ge.---
+
+--1---
+
+#!/bin/bash
+num1=5
+num2=10
+
+if [ $num1 -lt $num2 ]; then
+  echo "$num1 is less than $num2"
+else
+  echo "$num1 is not less than $num2"
+fi
+
+--2---
+#!/bin/bash
+num1=5
+num2=5
+
+if [ $num1 -eq $num2 ]; then
+  echo "$num1 is equal to $num2"
+else
+  echo "$num1 is not equal to $num2"
+fi
+
+
+-3---
+#!/bin/bash
+str1="hello"
+str2="world"
+
+if [ "$str1" = "$str2" ]; then
+  echo "Strings are equal."
+else
+  echo "Strings are not equal."
+fi
+
+
+---4---
+#!/bin/bash
+str="hello"
+
+if [ -z "$str" ]; then
+  echo "String is empty."
+else
+  echo "String is not empty."
+fi
+
+
+---Nested If--
+
+#!/bin/bash
+age=25
+
+if [ $age -ge 18 ]; then
+  if [ $age -lt 21 ]; then
+    echo "You are an adult but not yet 21."
+  else
+    echo "You are 21 or older."
+  fi
+else
+  echo "You are a minor."
+fi
+
+
+---Check if file is empty----
+
+#!/bin/bash
+if [ -s "file.txt" ]; then
+  echo "File is not empty."
+else
+  echo "File is empty."
+fi
+
+
+---check if file is executable---
+
+#!/bin/bash
+if [ -x "script.sh" ]; then
+  echo "File is executable."
+else
+  echo "File is not executable."
+fi
+
+---read --
+#!/bin/bash
+echo "Enter your favorite color:"
+read color
+
+if [ "$color" = "blue" ]; then
+  echo "You chose blue!"
+else
+  echo "You chose something other than blue."
+fi
+
+--logical and--
+#!/bin/bash
+num=15
+if [ $num -gt 10 ] && [ $num -lt 20 ]; then
+  echo "Number is between 10 and 20."
+else
+  echo "Number is not between 10 and 20."
+fi
+
+
+---Case Statement---
+
+#!/bin/bash
+
+echo "Choose a command to run:"
+echo "1) List files (ls)"
+echo "2) Display current directory (pwd)"
+echo "3) Show disk usage (df)"
+echo "4) Show system info (uname -a)"
+echo "Enter the number of the command you want to run:"
+
+read choice
+
+case $choice in
+  1)
+    echo "Listing files in the current directory:"
+    ls
+    ;;
+  2)
+    echo "Current directory:"
+    pwd
+    ;;
+  3)
+    echo "Disk usage:"
+    df -h
+    ;;
+  4)
+    echo "System information:"
+    uname -a
+    ;;
+  *)
+    echo "Invalid choice, please select a number between 1 and 4."
+    ;;
+esac
+
+
+
+
+
+
