@@ -116,11 +116,12 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Lab:
 - [VirtualBox Download Link](https://www.virtualbox.org/wiki/Downloads)
 - [Ubuntu LTS Download Link](https://ubuntu.com/download/desktop)
+- [Shell Scripting in 20 Minutes - Crash Course](https://youtu.be/CeCah9nD9XE?si=1tUDkHq7Yvg-B7cK)
 
 - [How to Install Ubuntu 24.04 LTS on VirtualBox in Windows 11](https://youtu.be/DhVjgI57Ino?si=8__97QLTj19qSqmU) - Installation guide.
 
 🔗 Google Drives:
-
+- [OS Lab Drive Spring'24 (Sir Monis)](https://drive.google.com/drive/folders/15-KaiX7fn005XGsNHp1AnyIQCGZV55RA?usp=sharing)
 
 🔗 Full courses:
 
