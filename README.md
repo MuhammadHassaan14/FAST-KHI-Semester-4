@@ -26,25 +26,15 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
-  <!-- <ul>
-  <li><a href="#-operating-systems">Operating Systems (Theory+Lab)</li>
-  <li><a href="#-theory-of-automata">Theory of Automata</li>
-  <li><a href="#-probability-and-statistics">Probability and Statistics</li>
-  <li><a href="#-computer-architecture">Computer Architecture</li>
-  <li><a href="#-psychology">Psychology (Elective)</li>
-  <li><a href="#-sociology">Sociology (Elective)</li>
-  </ul> -->
   | Course Code | Short | Name                                             | Type          | Credit Hours |
   |------------|-------|--------------------------------------------------|--------------|--------------|
-  | OSxxx      | OS    | [Operating Systems](#-operating-systems)         | Theory + Lab | X            |
-  | TAxxx      | T0A    | [Theory of Automata](#-theory-of-automata)       | Theory       | X            |
-  | PSxxx      | PROB    | [Probability and Statistics](#-probability-and-statistics) | Theory  | X            |
-  | CAxxx      | CA    | [Computer Architecture](#-computer-architecture) | Theory       | X            |
-  | PSYxxx     | PSYCH   | [Psychology](#-psychology)                       | Elective     | X            |
-  | SOCxxx     | SOCIO   | [Sociology](#-sociology)                         | Elective     | X            |
-  | CCExxx     | CCE   | [Civics & Community Engagement](#-civics-community-engagement) | Elective | X |
-
-
+  | CS2006      | OS    | [Operating Systems](#-operating-systems)         | Core | 3+1            |
+  | CS3005      | T0A    | [Theory of Automata](#-theory-of-automata)       | Core       | 3            |
+  | MT2005      | PROB    | [Probability and Statistics](#-probability-and-statistics) | Core  | 3            |
+  | EE3009      | CA    | [Computer Architecture](#-computer-architecture) | Core       | 3            |
+  | SS2019     | PSYCH   | [Psychology](#-psychology)                       | Elective     | 2            |
+  | SS2018     | SOCIO   | [Sociology](#-sociology)                         | Elective     | 2            |
+  | SS2043     | CCE   | [Civics & Community Engagement](#-civics-community-engagement) | Core | 2 |
 
 ## 🔗 Useful Websites you should know!
 
