@@ -71,7 +71,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
     <td rowspan="2" style="text-align:center;">5</td>
     <td>SS2019</td>
     <td>PSYCH</td>
-    <td><a href="#-psychology">Psychology</a></td>
+    <td>Psychology</td>
     <td>Elective</td>
     <td>2</td>
   </tr>
@@ -83,10 +83,10 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
     <td>2</td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>6*</td>
     <td>SS2043</td>
     <td>CCE</td>
-    <td><a href="#-civics-community-engagement">Civics & Community Engagement</a></td>
+    <td>Civics & Community Engagement</td>
     <td>Core</td>
     <td>2</td>
   </tr>
@@ -95,9 +95,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
     <td><b>17</b></td>
   </tr>
 </table>
-
-
-
+<i>Note</i>: "Civics & Community Engagement" was introduced as a core course from Spring'2025 for 2nd & 4th semester students according to HEC guidelines.
 
 ## 🔗 Useful Websites you should know!
 
@@ -201,6 +199,7 @@ pata chale toh mujhe bhi bata dena pls
 - [Theory of Automata lectures in Urdu by Programology](https://youtube.com/playlist?list=PLR2FqYUVaFJo5_uHfe5gh9_Hxu55LOFI8&si=gokfXPdvwGpgmUcu)
 
 🔗 Resources:
+- [TOA Material](https://nupakistan-my.sharepoint.com/personal/k213195_nu_edu_pk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk213195%5Fnu%5Fedu%5Fpk%2FDocuments%2F%5B03%5D%20Uni%2F%5B04%5D%20Semester%204%2FToA&ga=1) - by Sufiyaan Usmani
 - [Complete TOC Theory of Computation in one shot](https://youtu.be/9kuynHcM3UA?si=4H7eSSWuFOzdnp78) - by KnowledgeGATE
 
 🔗 Google Drives:
