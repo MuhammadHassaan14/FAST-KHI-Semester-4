@@ -1,0 +1,2 @@
+muzammil seat0        2025-03-02 23:11 (login screen)
+muzammil tty2         2025-03-02 23:11 (tty2)
