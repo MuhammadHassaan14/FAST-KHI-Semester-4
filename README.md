@@ -171,7 +171,9 @@ pata chale toh mujhe bhi bata dena pls
 - [Operating System Concepts 10th Ed.](https://www.os-book.com/OS10/) - Web-page supporting the respective book.
 
 - [Operating System Web Resources](https://codex.cs.yale.edu/avi/os-book/) - Web-page supporting the *Operating System Concepts*.
-- [Operating Systems Slides (.pptx)](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html) - based on Operating System Concepts 10th Ed. 
+- [Operating Systems Slides (.pptx)](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html) - based on Operating System Concepts 10th Ed.
+- [Readers-Writers Problem](https://drive.google.com/file/d/1A-itUJuPg4fYvNwNMwKgP3ozOnr5BGRb/view?usp=drivesdk) - recorded lecture by Ms. Mubashra Fayyaz.
+- [Producer-Consumer Problem](https://drive.google.com/file/d/1etxZuh5l56Os5KXk2Tl36E0Nm8-8NDR5/view?usp=drivesdk) - recorded lecture by Ms. Mubashra Fayyaz.
 
 - [OSDev Org](https://wiki.osdev.org/Expanded_Main_Page) - Companion website for all Operating Systems development & articles.
 
@@ -179,6 +181,7 @@ pata chale toh mujhe bhi bata dena pls
 - [VirtualBox Download Link](https://www.virtualbox.org/wiki/Downloads)
 - [Ubuntu LTS Download Link](https://ubuntu.com/download/desktop)
 - [Shell Scripting in 20 Minutes - Crash Course](https://youtu.be/CeCah9nD9XE?si=1tUDkHq7Yvg-B7cK)
+- [Signal Handling](https://www.youtube.com/watch?v=xHQ-pGjBzrw&list=PLakHiHaPUcrpFQOuh-ILF15M8u_WojUut)
 
 - [How to Install Ubuntu 24.04 LTS on VirtualBox in Windows 11](https://youtu.be/DhVjgI57Ino?si=8__97QLTj19qSqmU) - Installation guide.
 
